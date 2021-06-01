@@ -37,7 +37,8 @@
 <a href= https://github.com/AshutoshViramgama?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
   
 <h2> Worked with <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<img width ='300px' src ='https://media2.giphy.com/media/Svv9qeEuzaMBa13UXE/giphy.gif'>  
+<img width ='300px' src ='https://media2.giphy.com/media/Svv9qeEuzaMBa13UXE/giphy.gif'>
+<img width ='300px' src ='https://www.spindesigns.in/images/content/ab-jewels.jpg'>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/ashutoshviramgama/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
