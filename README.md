@@ -14,7 +14,7 @@
 
 <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://ashutoshviramgama.com/wp-content/uploads/2021/02/DSC05477-removebg-preview.png" />
 I Ashutosh Viramgama is a Computer & Mechanical Engineer and wants to achieve masters in technology by combining these two engineering fields i.e. computer and mechanical. I am interested in new technology and new upcoming languages which have been developed recently and also the upcoming invention and personal invention ideas and I want to share all of these with the world. I love to share all new ideas and learn from others about the technology.
   
 My one and only motive is to Never Give Up! no matters how hard the path is and yes according to me success is not the thing that has to be achieved and one should not run for success or not focus on it at all the main thing is that after achieving success is it that you will be satisfied cause after achieving success we need other target means other higher success which is similar to the craze for money. In short, one should not run for success but one should just do the thing that makes them proud and happy. One’s character is the main thing even more than success means that after going through all the hard works when you look behind at yourself you must be proud of yourself with a great smile on your face not the guilt in your heart.
