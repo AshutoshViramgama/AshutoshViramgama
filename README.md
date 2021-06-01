@@ -46,7 +46,7 @@
 <a href = 'https://www.instagram.com/anvtech/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://in.pinterest.com/aviramgama/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pinterest.svg"/></a> 
 <a href = 'https://www.youtube.com/channel/UCCXK8oXSIfzslq3BUiHgUng'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>  
-<a href = 'https://play.google.com/store/apps/dev?id=8878620266216685655'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/googleplaystore.svg"/></a> 
+<a href = 'https://play.google.com/store/apps/dev?id=8878620266216685655'> <img width = '32px' align= 'center' src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-services-png-logo-3.png"/></a> 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
