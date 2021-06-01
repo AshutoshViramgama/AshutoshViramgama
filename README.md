@@ -16,7 +16,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://ashutoshviramgama.com/wp-content/uploads/2021/02/DSC05477-removebg-preview.png" />
 <p>I Ashutosh Viramgama is a Computer & Mechanical Engineer and wants to achieve masters in technology by combining these two engineering fields i.e. computer and mechanical. I am interested in new technology and new upcoming languages which have been developed recently and also the upcoming invention and personal invention ideas and I want to share all of these with the world. I love to share all new ideas and learn from others about the technology.</p>
-<br/>
+  
 <p>My one and only motive is to Never Give Up! no matters how hard the path is and yes according to me success is not the thing that has to be achieved and one should not run for success or not focus on it at all the main thing is that after achieving success is it that you will be satisfied cause after achieving success we need other target means other higher success which is similar to the craze for money. In short, one should not run for success but one should just do the thing that makes them proud and happy. One’s character is the main thing even more than success means that after going through all the hard works when you look behind at yourself you must be proud of yourself with a great smile on your face not the guilt in your heart.</p>
   
 <p>This website briefs about my portfolio and my works and my skills with an attached resume. I am a freelancer as well as I do a full-time job and also blogging in my free time. My blogs are mainly focused on the upcoming and the evolving technology about which no one is so much aware of and also some psychology-related blogs for helping people to solve their common life problems by motivating them and giving them some tricks to crack problems. Also, many students and peoples are having some small hurdles in their work or projects but outside everyone charges for it while I want to solve that with my best knowledge as much as I can without charging them. Thanks for visiting my website and hope you liked my blogs and please don’t be shy to share it. Have A Great Day!</p>
@@ -35,8 +35,9 @@
 <a href= https://github.com/AshutoshViramgama?tab=repositories&q=&type=&language=flask&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
 <a href= https://github.com/AshutoshViramgama?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/AshutoshViramgama?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<img width ='100px' src ='https://media2.giphy.com/media/Svv9qeEuzaMBa13UXE/giphy.gif'>
-
+  
+<h2> Worked with <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<img width ='300px' src ='https://media2.giphy.com/media/Svv9qeEuzaMBa13UXE/giphy.gif'>  
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/ashutoshviramgama/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
