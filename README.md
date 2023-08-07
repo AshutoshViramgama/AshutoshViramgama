@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://ashutoshviramgama.com/wp-content/uploads/2020/04/ashutoshviramgama-1.png" alt="cover" style="background-color: #fff;" />
+<img width="100%" height = "250px" src="https://ashutoshviramgama.com/wp-content/uploads/2020/04/ashutoshviramgama-1.png" alt="cover" style="background-color: #fff!important;" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
