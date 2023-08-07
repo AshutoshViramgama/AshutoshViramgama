@@ -1,5 +1,5 @@
 
-<div align="center" style="background-color: #fff!important">
+<div align="center" style="background-color: #fff; padding: 10px;">
 <img width="100%" height = "250px" src="https://ashutoshviramgama.com/wp-content/uploads/2020/04/ashutoshviramgama-1.png" alt="cover" />
 </div>
 
