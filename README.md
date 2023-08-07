@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="[https://media-exp1.licdn.com/dms/image/C4E16AQGWcUldn7VmXA/profile-displaybackgroundimage-shrink_200_800/0/1585423650961?e=1628121600&v=beta&t=Ewj4dL-_ZYcCflpV1bGD_JJ9bYaKi-36dIM69X6FYHw](https://ashutoshviramgama.com/wp-content/uploads/2020/04/ashutoshviramgama-1.png)" alt="cover" />
+<img width="100%" height = "250px" src="https://ashutoshviramgama.com/wp-content/uploads/2020/04/ashutoshviramgama-1.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
