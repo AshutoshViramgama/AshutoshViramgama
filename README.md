@@ -51,6 +51,7 @@ Wishing you a fantastic day ahead! 🌞
 <a href= https://github.com/AshutoshViramgama?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
   
 <h2> Worked with <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<img width ='150px' src ='https://www.ncs.co/dam/jcr:68e48c73-c3bf-443b-bf66-cb5f4e8bc7fe/ncs_logo.png'>
 <img width ='150px' src ='https://media2.giphy.com/media/Svv9qeEuzaMBa13UXE/giphy.gif'>
 <img width ='150px' src ='https://www.spindesigns.in/images/content/ab-jewels.jpg'>
 <img width ='150px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9EzEbDlt7pZTxYj5Lk-bJGH-fAVgFd23MA&usqp=CAU'>
