@@ -3,23 +3,37 @@
 <img width="fit-content" height = "250px" src="https://ashutoshviramgama.com/wp-content/uploads/2020/04/cropped-Untitled-1.png" alt="cover" />
 </div>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AshutoshViramgama.AshutoshViramgama)
+
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AshutoshViramgama.AshutoshViramgama)
 
 </p>
-<div size='20px'> Hi! My name is <a href = 'https://ashutoshviramgama.com'>Ashutosh Viramgama</a>.<img align ='center' src='https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif' width = '32px'>
-</div>
-
-<h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://ashutoshviramgama.com/wp-content/uploads/2021/02/DSC05477-removebg-preview.png" />
-<p>I Ashutosh Viramgama is a Computer & Mechanical Engineer and wants to achieve masters in technology by combining these two engineering fields i.e. computer and mechanical. I am interested in new technology and new upcoming languages which have been developed recently and also the upcoming invention and personal invention ideas and I want to share all of these with the world. I love to share all new ideas and learn from others about the technology.</p>
-  
-<p>My one and only motive is to Never Give Up! no matters how hard the path is and yes according to me success is not the thing that has to be achieved and one should not run for success or not focus on it at all the main thing is that after achieving success is it that you will be satisfied cause after achieving success we need other target means other higher success which is similar to the craze for money. In short, one should not run for success but one should just do the thing that makes them proud and happy. One’s character is the main thing even more than success means that after going through all the hard works when you look behind at yourself you must be proud of yourself with a great smile on your face not the guilt in your heart.</p>
-  
-<p>This website briefs about my portfolio and my works and my skills with an attached resume. I am a freelancer as well as I do a full-time job and also blogging in my free time. My blogs are mainly focused on the upcoming and the evolving technology about which no one is so much aware of and also some psychology-related blogs for helping people to solve their common life problems by motivating them and giving them some tricks to crack problems. Also, many students and peoples are having some small hurdles in their work or projects but outside everyone charges for it while I want to solve that with my best knowledge as much as I can without charging them. Thanks for visiting my website and hope you liked my blogs and please don’t be shy to share it. Have A Great Day!</p>
+
+I'm <a href = 'https://ashutoshviramgama.com'>Ashutosh Viramgama</a>, a Computer & Mechanical Engineer on a mission to bridge the gap between these two fascinating engineering domains. My ultimate goal is to pursue a master's degree in technology, fusing the principles of computer science and mechanical engineering to drive innovation and make a positive impact on the world.
+
+## What Drives Me 🚀
+
+I have an insatiable curiosity for new technologies and emerging programming languages. Exploring cutting-edge inventions and generating novel ideas energizes me. I'm passionate about sharing my discoveries and insights with the global tech community, encouraging collaborative learning and growth.
+
+## Perseverance and Purpose 🌟
+
+"Never Give Up" is more than just a motto for me—it's a guiding philosophy. While success is important, my focus goes beyond achievements. What truly matters is finding fulfillment in the journey, in doing work that makes me proud and happy. I believe that genuine success comes from the satisfaction of positively impacting lives and contributing to the greater good.
+
+## My Contributions 💻
+
+This GitHub repository serves as a portfolio of my works, projects, and skills. In addition to my full-time job, I actively engage in freelancing and blogging during my free time. My blog posts delve into the latest and evolving technologies, shedding light on lesser-known aspects and inspiring others to embrace innovation.
+
+## Giving Back to the Community 🤝
+
+I'm passionate about helping others and making knowledge accessible. In my blogs, I offer practical solutions to common life challenges, using psychology and motivation as guiding tools. Moreover, I find joy in supporting students and individuals with their projects and endeavors, without any expectation of payment.
+
+Feel free to explore my GitHub repositories and projects. If you find my work valuable, don't hesitate to share it with others. Let's connect and collaborate on exciting tech ventures!
+
+Wishing you a fantastic day ahead! 🌞
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/AshutoshViramgama?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -39,8 +53,8 @@
 <h2> Worked with <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <img width ='150px' src ='https://media2.giphy.com/media/Svv9qeEuzaMBa13UXE/giphy.gif'>
 <img width ='150px' src ='https://www.spindesigns.in/images/content/ab-jewels.jpg'>
-<img width ='150px' src ='https://therapyplate.com/admin/assets/images/logo.png'>
-<img width ='150px' src ='https://www.cosaia.com/cosaia.png'>
+<img width ='150px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9EzEbDlt7pZTxYj5Lk-bJGH-fAVgFd23MA&usqp=CAU'>
+<img width ='150px' src ='https://media.licdn.com/dms/image/C4D0BAQHcSclu0BzEIw/company-logo_200_200/0/1600861372743?e=2147483647&v=beta&t=EG--nf0nz38DwsBL1UAAJJZAd5mjf0rRQiozx_dHwcM'>
 <img width ='150px' src ='https://www.vmukti.com/wp-content/uploads/2020/09/VMukti-Logo-New.png'>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -52,6 +66,7 @@
 <a href = 'https://in.pinterest.com/aviramgama/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pinterest.svg"/></a> 
 <a href = 'https://www.youtube.com/channel/UCCXK8oXSIfzslq3BUiHgUng'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>  
 <a href = 'https://play.google.com/store/apps/dev?id=8878620266216685655'> <img width = '32px' align= 'center' src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-services-png-logo-3.png"/></a> 
+<a href = 'https://apps.apple.com/in/app/krish-vastu/id6450184648'> <img width = '32px' align= 'center' src="https://img.freepik.com/free-icon/mac-os_318-10374.jpg"/></a> 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
