@@ -11,7 +11,7 @@
 
 </p>
 
-<img width="55%" align="right" alt="Github" src="https://ashutoshviramgama.com/wp-content/uploads/2021/02/DSC05477-removebg-preview.png" />
+<img width="35%" align="left" alt="Github" src="https://ashutoshviramgama.com/wp-content/uploads/2021/02/DSC05477-removebg-preview.png" />
 
 I'm <a href = 'https://ashutoshviramgama.com'>Ashutosh Viramgama</a>, a Computer & Mechanical Engineer on a mission to bridge the gap between these two fascinating engineering domains. My ultimate goal is to pursue a master's degree in technology, fusing the principles of computer science and mechanical engineering to drive innovation and make a positive impact on the world.
 
